@@ -1,7 +1,7 @@
 {
   "name": "@farmo/react-native-unicons",
   "description": "Farmo Fork of Unicons - 1000+ vector icons as easy to use vector React Native Components",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
