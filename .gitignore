@@ -6,6 +6,7 @@
 #
 /generated/*
 /dist/*
+/icons/*
 
 # node.js
 #
